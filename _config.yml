@@ -1,13 +1,8 @@
----
-title: "小强"
-date: 2020-12-27
----
 theme: minima
 title: Shijie (Christopher) Wang
 author: Shijie (Christopher) Wang
 email: Christophertlal@outlook.com
-description: > # this means to ignore newlines until "baseurl:"
-Shijie Wang, who was graduated from Xi'an Jiaotong-Liverpool University, is interested in Psycholinguistics, Bi/Multilingualism, Individual Difference, and Quantitative Research Method.
+description: > Shijie Wang, who was graduated from Xi’an Jiaotong-Liverpool University, is interested in Psycholinguistics, Bi/Multilingualism, Individual Difference, and Quantitative Research Method. # this means to ignore newlines until "baseurl:"
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
