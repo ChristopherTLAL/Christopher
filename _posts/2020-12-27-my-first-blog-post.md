@@ -1,3 +1,7 @@
+---
+title: "小强"
+date: 2020-12-27
+---
 # **Shijie WANG**
 
 Email: [christophertlal@outlook.com](mailto:christophertlal@outlook.com)
