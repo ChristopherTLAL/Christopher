@@ -6,16 +6,18 @@ Research Gate: [https://www.researchgate.net/profile/Shijie\_Wang16](https://www
 
 Tel: +86 15370023313
 
-**EDUCATION**
+***EDUCATION***
 
-| Xi&#39;an Jiaotong-Liverpool University (XJTLU) |2016 - 2020 |
+|Institution|Span|
 | - | - |
+| Xi&#39;an Jiaotong-Liverpool University (XJTLU) |2016 - 2020 |
 | Bachelor of Arts in Applied English (First Class) | Issued by the University of Liverpool |
 
-**Awards, fundings, &amp; Certificates**
+***Awards, fundings, &amp; Certificates***
 
-| Best Overall Academic Performance (Ranked the first among all graduates in the Dept. of English) | XJTLU |
+|Awards|Institution|
 | --- | --- |
+| Best Overall Academic Performance (Ranked the first among all graduates in the Dept. of English) | XJTLU |
 | University Academic Excellence Award (Top 5%; Academic Year 2018/2019) | XJTLU |
 | Summer Undergraduate Research Fellowship (Academic Year 2018/2019) | XJTLU |
 | University Outstanding Student Award (Academic Year 2017/2018) | XJTLU |
@@ -23,7 +25,7 @@ Tel: +86 15370023313
 | Recognition Award of the 8th National Competition of Interpretation |
 | Chinese Accreditation for Translation and Interpretation (Level 3) |
 
-**Research**
+***Research***
 
 _The symbol \* is indicative of the corresponding author_
 
@@ -57,10 +59,11 @@ Wei, Rining., Kang, Yifan., &amp; **Wang, Shijie** \* (major revision) &#39;The 
 
 **Wang, Shijie.,** &amp; Wei, Rining\*(under review) &#39;Does L2 Enjoyment mediate the Relationship between Tolerance of Ambiguity and L2 Achievement? A structural equation modelling approach&#39;
 
-**Teaching**
+***Teaching***
 
-| **ENG115 English as a Global Language** | Dept. of English, XJTLU |
+|Course & Role|Institution & Span|
 | --- | --- |
+| **ENG115 English as a Global Language** | Dept. of English, XJTLU |
 | _Teaching Assistant_ | Sept. 2019 – Jan. 2020; Sept. 2020 – present (until Jan. 2021) |
 | **ENG216 Bilingualism** | Dept. of English, XJTLU |
 | _Teaching Assistant_ | Feb. 2020 – July 2020 |
@@ -71,39 +74,50 @@ Wei, Rining., Kang, Yifan., &amp; **Wang, Shijie** \* (major revision) &#39;The 
 | **Research-Led Education** | Student-led Optional Course, XJTLU |
 | _Student Lecturer_ | Nov. 2019 – present (until June 2021) |
 
-**Service**
+***Service***
 
-| **Student-Staff Liaison Committee** | Department of English, XJTLU |
+|Organisation & Role|Institution & Span|
 | --- | --- |
+| **Student-Staff Liaison Committee** | Department of English, XJTLU |
 | _Chair_ | Oct. 2018 - Aug. 2019 |
 | **Coursera** |
 | _Translator (Volunteer)_ | Nov. 2017 - present |
 
 **Membership**
 
-| Translators Association of China | Sept. 2019 - present |
+|Organisation|Span|
 | --- | --- |
+| Translators Association of China | Sept. 2019 - present |
 | Chinese Debating Club of XJTLU | Oct. 2016 - Aug. 2018 |
 | Chinese Young Volunteers Association | Oct. 2016 - Aug. 2017 |
 
 
 **Skills**
-| --- |
+
 | **Statistics** |
+|---|
 | _IBM SPSS, IBM Amos, JASP_ |
 | _R_ |
 | Relevant Skills: Basic Descriptive and Inferential Statistics, Reliability and Validity Test, Effect Size Reporting and Interpreting, Meta-Analysis, Structural Equation Modelling, Mediating Analysis, Moderating Analysis, etc. |
+
 | **Scientometric Analysis** |
+|---|
 | _CiteSpace_ |
 | Relevant Skills: Cluster Analysis, Burst Detection and Visualization, Co-CitationNetwork Analysis, etc. |
+
 | **Corpus** |
+|---|
 | _The Prime Machine__,_ _AntConc_ |
 | _Multidimensional Analysis Tagger_ |
 | Relevant Skills: Keyword Analysis, Collocation Analysis, Bayesian Approach of Corpus Analysis, etc. |
+
 | **Text Analysis** |
+|---|
 | _NVivo_ |
 | Relevant Skills: Cluster Analysis, Text Processing, Thematic Analysis, Emotion Analysis, etc. |
+
 | **Other Skills** |
+|---|
 | Data Visualisation:_Tableau_ |
 | Computer-aided Translation: _SDL Trados; MemoQ_ |
 | Literature Management: _Endnote; Mendeley; Zotero_ |
