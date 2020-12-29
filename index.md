@@ -7,6 +7,7 @@ Research Gate: <https://www.researchgate.net/profile/Shijie_Wang16>
 Tel: +86 15370023313
 
 **EDUCATION**
+
 |Institution|Span|
 |---------------------------------------------------|---------------------------------------|
 | Xi’an Jiaotong-Liverpool University (XJTLU)       | 2016 - 2020                           |
