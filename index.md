@@ -77,7 +77,7 @@ Tel: +86 15370023313
 
 >   *Other Research Experience*
 
->   Wei, Rining\*\*\*.\*\*, & **Wang, Shijie** (2019) ‘40 Years of Chinese
+>   Wei, Rining\*., & **Wang, Shijie** (2019) ‘40 Years of Chinese
 >   Foreign Language Education: The Development after the Reform and Opening-up’
 >   (改革开放40年中国外语教学进程) [unpublished policy report]
 
