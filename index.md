@@ -8,14 +8,14 @@ ORCID: <https://orcid.org/0000-0003-2624-8103>
 
 Tel: +86 15370023313
 
-## EDUCATION
+### EDUCATION
 
 |Institution|Span|
 |---------------------------------------------------|---------------------------------------|
 | Xi’an Jiaotong-Liverpool University (XJTLU)       | 2016 - 2020                           |
 | Bachelor of Arts in Applied English (First Class) | Issued by the University of Liverpool |
 
-## Awards, fundings, & Certificates
+### Awards, fundings, & Certificates
 
 |Awards|Institution|
 |--------------------------------------------------------------------------------------------------|-------|
@@ -27,7 +27,7 @@ Tel: +86 15370023313
 | Recognition Award of the 8th National Competition of Interpretation                              |       |
 | Chinese Accreditation for Translation and Interpretation (Level 3)                               |       |
 
-## Research
+### Research
 
 *The symbol \* is indicative of the corresponding author*
 
@@ -90,7 +90,7 @@ Tel: +86 15370023313
 >   the Relationship between Tolerance of Ambiguity and L2 Achievement? A
 >   structural equation modelling approach’
 
-## Teaching
+### Teaching
 
 |Course & Role|Institution & Span|
 |-----------------------------------------|----------------------------------------------|
@@ -105,7 +105,7 @@ Tel: +86 15370023313
 | **Research-Led Education**              | Student-led Optional Course, XJTLU           |
 | *Student Lecturer*                      | Nov. 2019 – present (until June 2021)        |
 
-## Employment
+### Employment
 
 |Institution|Span|
 |-------------------------------------|------------------------|
@@ -118,7 +118,7 @@ Tel: +86 15370023313
 | **Simultaneous Interpretation Lab** | XJTLU                  |
 | *Administrator*                     | Sept. 2019 - Jan. 2020 |
 
-## Service
+### Service
 
 |Organisation & Role|Institution & Span|
 |-------------------------------------|------------------------------|
@@ -127,7 +127,7 @@ Tel: +86 15370023313
 | **Coursera**                        |                              |
 | *Translator (Volunteer)*            | Nov. 2017 - present          |
 
-## Membership
+### Membership
 
 |Organisation|Span|
 |--------------------------------------|-----------------------|
@@ -135,7 +135,7 @@ Tel: +86 15370023313
 | Chinese Debating Club of XJTLU       | Oct. 2016 - Aug. 2018 |
 | Chinese Young Volunteers Association | Oct. 2016 - Aug. 2017 |
 
-## Skills
+### Skills
 
 | **Statistics**                                                                                                                                                                                                                    |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
