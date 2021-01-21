@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: default
 title: "Exploring L2 grit in the Chinese EFL context"
 date: 2020-06-18
 ---
