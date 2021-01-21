@@ -1,5 +1,5 @@
 ---
-layout: defaults
+layout: default
 title: "Shijie Wang"
 permalink: /shijie_CV/
 ---
