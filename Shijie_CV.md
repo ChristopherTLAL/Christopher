@@ -3,7 +3,6 @@ layout: default
 title: "Shijie Wang"
 permalink: /Shijie_CV/
 ---
-Shijie [ʂʅ<sup>51</sup> tɕjɛ<sup>35</sup>] Wang, who was graduated from Xi'an Jiaotong-Liverpool University, is interested in Psycholinguistics, Bi/Multilingualism, Individual Difference, and Quantitative Research Method.
 
 Email: <christophertlal@outlook.com>
 
